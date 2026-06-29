@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Gmail-rjsathish2005-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sathish-r" target="_blank">
+  <a href="www.linkedin.com/in/mr-sathish-r" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sathish%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
